@@ -7,7 +7,6 @@
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atheeralh&theme=blue-green)
 
 <!--- 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=atheeralh&show_icons=true)
