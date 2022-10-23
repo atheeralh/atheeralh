@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Cloud Security
 - 💞️ I’m looking to collaborate on AWS based projects 
 - 📫 How to reach me salharbi.atheer@gmail.com 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=atheeralh&show_icons=true)
 
 <!---
 atheeralh/atheeralh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
